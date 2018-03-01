@@ -1,6 +1,6 @@
 # Rekrytointitehtävä - Koha-Suomi Oy
 
-Tehtävänä on tehdä yksinkertainen hakupalvelu, johon lähtödatana käytetään MARCDATA-tiedostoa. Haku pitää pystyä kohdistamaan itse valittuun kenttään. Haun pitää pystyä antamaan tuloksia osittaisista hakusanoista ja järjestää ne siististi näytölle.
+Tehtävänä on tehdä yksinkertainen hakupalvelu, johon lähtödatana käytetään MARCDATA-tiedostoa. Hakijan pitää pystyä valitsemaan kenttä mihin haku kohdistetaan. Haun pitää tukea joko automaattista sanankatkaisua tai katkaisumerkkiä tai molempia, lisäksi tulokset järjestään näytölle siististi.
 
 Ohjelman vaatimukset:
 
